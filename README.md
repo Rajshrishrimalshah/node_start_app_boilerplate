@@ -1,1 +1,0 @@
-# node_start_app_boilerplate
