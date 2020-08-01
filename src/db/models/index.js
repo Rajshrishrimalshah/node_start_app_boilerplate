@@ -1,1 +1,1 @@
-export { default as BookModel } from './Book';
+export { default as BookModel } from './BookSchema';
